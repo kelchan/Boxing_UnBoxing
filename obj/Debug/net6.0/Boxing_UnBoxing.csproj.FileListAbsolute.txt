@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\bin\Debug\net6.0\Boxing_UnBoxing.exe
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\bin\Debug\net6.0\Boxing_UnBoxing.deps.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\bin\Debug\net6.0\Boxing_UnBoxing.runtimeconfig.json
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\bin\Debug\net6.0\Boxing_UnBoxing.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\bin\Debug\net6.0\Boxing_UnBoxing.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.AssemblyInfo.cs
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\refint\Boxing_UnBoxing.dll
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.pdb
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\Boxing_UnBoxing.genruntimeconfig.cache
+C:\Users\Kelvin\Desktop\CSharp\Assignments\Boxing_UnBoxing\obj\Debug\net6.0\ref\Boxing_UnBoxing.dll
